@@ -1,2 +1,2 @@
 # Handle_ProtectFromClose
-Using NtSetInformationObject we protect against closing handles
+A very simple code that prevents handles from being closed using NtSetInformationObject.
